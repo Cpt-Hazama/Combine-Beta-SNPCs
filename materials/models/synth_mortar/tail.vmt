@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$basetexture" "models/synth_mortar/tail"
+	"$selfillum" 1
+}
